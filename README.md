@@ -22,8 +22,18 @@ Python, Pandas, Matplotlib, Jupyter Notebook, descriptive statistics, and correl
 5. Explore correlations between numerical variables and profit margin.
 6. Compare average delivery time across regions.
 7. Interpret findings carefully and propose operational follow-up analyses.
+8. Data Exploration and Preparation
 
- Findings reported in the original project
+Dataset Preview
+  dataset_preview.png
+
+Dataset Structure
+  data_structure.png
+
+Summary Statistics
+  summary_statistics.png
+  
+  Findings reported in the original project
 These figures are transcribed from the WGU report and should be reproduced by running the notebook against the original dataset before being presented as verified results:
 - Records: 34,500
 - Average delivery time: 4.81 days
@@ -38,13 +48,13 @@ These figures are transcribed from the WGU report and should be reproduced by ru
 
  Visualizations
 
- 1. Average Delivery Time by Region
+ Average Delivery Time by Region
 The East region had the longest average delivery time, at approximately 6 days. This may indicate an opportunity to investigate regional fulfillment processes.
 
-2. Correlation with Profit Margin
+ Correlation with Profit Margin
 Total order amount showed the strongest positive correlation with profit margin (approximately 0.893), while delivery time showed almost no linear correlation (approximately 0.006). Correlation does not establish causation.
 
-3. Order Return Rate
+Order Return Rate
 Approximately 5.52% of orders were returned, while 94.48% were not returned.
 
  Recommendations from the report
