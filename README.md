@@ -7,7 +7,7 @@ This project explores how order fulfillment performance relates to profitability
 How can process improvements reduce delivery delays, product returns, and fulfillment costs while improving profitability in an e-commerce environment?
 
 ## Dataset
-The WGU Task 2 report describes a public Kaggle dataset with 34,500 order records and 17 variables. It includes order and customer identifiers, product category, price, discount, quantity, payment method, order date, delivery time, region, return status, total amount, shipping cost, profit margin, customer age, and customer gender.
+The Kaggle public dataset with 34,500 order records and 17 variables. It includes order and customer identifiers, product category, price, discount, quantity, payment method, order date, delivery time, region, return status, total amount, shipping cost, profit margin, customer age, and customer gender.
 
 **Before publishing:** add the original dataset source URL and review its license/terms. Do not upload data unless redistribution is permitted.
 
